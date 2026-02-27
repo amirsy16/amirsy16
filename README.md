@@ -29,10 +29,7 @@
 
 ### 📊 Statistik GitHub
 
-[![Amirsy's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirsy16&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/amirsy16)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirsy16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/amirsy16)
-
+<img src="https://streak-stats.demolab.com?user=amirsy16&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 ---
 
 ### 📫 Mari Terhubung!
