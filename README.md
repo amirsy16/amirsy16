@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Halo, Saya Amirsy! 👋</h1>
+  <h1>Halo, Saya Amir Syofian! 👋</h1>
   <p>
     <b>Seorang <i>Full-Stack Developer</i> yang antusias membangun aplikasi web dan mobile berkualitas.</b>
   </p>
