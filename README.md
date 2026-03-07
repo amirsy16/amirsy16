@@ -19,9 +19,35 @@
 
 ### 🛠️ Bahasa & Teknologi
 
+#### 🌐 Frontend
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,php,dart,laravel,react,nextjs,tailwind,flutter,mysql,html,css,git&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="Frontend Skills" />
+  </a>
+</p>
+
+#### 🖥️ Backend
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql&theme=dark" alt="Backend Skills" />
+  </a>
+</p>
+
+#### 📱 Mobile
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dart,flutter&theme=dark" alt="Mobile Skills" />
+  </a>
+</p>
+
+#### 🔧 Tools & Lainnya
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Tools" />
   </a>
 </p>
 
@@ -30,6 +56,7 @@
 ### 📊 Statistik GitHub
 
 <img src="https://streak-stats.demolab.com?user=amirsy16&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
 ---
 
 ### 📫 Mari Terhubung!
